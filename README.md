@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 <!-- ![wakaka6's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakaka6&show_icons=true&theme=dracula) -->
 <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=wakaka6&theme=crt">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=wakaka6&screen_effect=true&theme=crt">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=wakaka6&theme=crt">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wakaka6/wakaka6/output/github-stats.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wakaka6/wakaka6/output/github-stats-dark.png">
+  <img alt="github stats" src="https://pixel-profile-five.vercel.app/api/github-stats?username=wakaka6&theme=crt">
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakaka6&layout=compact&hide=javascript,html,vim%20script,vim,shell,Vim%20Snippet,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
