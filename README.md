@@ -20,4 +20,4 @@ Here are some ideas to get you started:
   <img alt="github stats" src="https://pixel-profile-five.vercel.app/api/github-stats?username=wakaka6&theme=crt">
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakaka6&layout=compact&hide=javascript,html,vim%20script,vim,shell,Vim%20Snippet,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakaka6&layout=compact&hide=javascript,html,vim%20script,vim,shell,Vim%20Snippet,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
